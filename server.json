@@ -1,254 +1,1044 @@
 {
   "tags": [
-    { "title": "Python", "amountOfVideos": 34 },
-    { "title": "Basic HTML", "amountOfVideos": 12 },
-    { "title": "Comprehensive CSS", "amountOfVideos": 45 },
-    { "title": "Detailed React", "amountOfVideos": 27 },
-    { "title": "Easy JavaScript", "amountOfVideos": 31 },
-    { "title": "Fundamental Vue", "amountOfVideos": 22 },
-    { "title": "General Django", "amountOfVideos": 18 },
-    { "title": "Handy Flask", "amountOfVideos": 48 },
-    { "title": "Introductory Node", "amountOfVideos": 36 },
-    { "title": "Journey through Angular", "amountOfVideos": 29 },
-    { "title": "Key Concepts in Express", "amountOfVideos": 15 },
-    { "title": "Learning Bootstrap", "amountOfVideos": 41 },
-    { "title": "Mastering TypeScript", "amountOfVideos": 23 },
-    { "title": "Navigating MongoDB", "amountOfVideos": 19 },
-    { "title": "Operational GraphQL", "amountOfVideos": 33 },
-    { "title": "Practical Web Design", "amountOfVideos": 26 },
-    { "title": "Quickstart with SASS", "amountOfVideos": 28 },
-    { "title": "Refining Algorithms", "amountOfVideos": 30 },
-    { "title": "Sophisticated Machine Learning", "amountOfVideos": 40 },
-    { "title": "Technical SEO", "amountOfVideos": 17 },
-    { "title": "Understanding UX/UI", "amountOfVideos": 25 },
-    { "title": "Versatile Kotlin", "amountOfVideos": 32 },
-    { "title": "Workshop on Git", "amountOfVideos": 21 },
-    { "title": "eXploring Data Science", "amountOfVideos": 37 },
-    { "title": "Yielding Rust Projects", "amountOfVideos": 44 },
-    { "title": "Zonal Deployment Strategies", "amountOfVideos": 20 },
-    { "title": "Analyzing Big Data", "amountOfVideos": 47 },
-    { "title": "Building CI/CD Pipelines", "amountOfVideos": 13 },
-    { "title": "Crafting Digital Marketing", "amountOfVideos": 39 },
-    { "title": "Developing Cloud Solutions", "amountOfVideos": 50 },
-    { "title": "Engineering Robust Architectures", "amountOfVideos": 52 },
-    { "title": "Formulating Business Strategies", "amountOfVideos": 24 },
-    { "title": "Growing E-commerce Platforms", "amountOfVideos": 16 },
-    { "title": "Harnessing IoT for Smart Cities", "amountOfVideos": 43 },
-    { "title": "Implementing Security Best Practices", "amountOfVideos": 38 },
-    { "title": "Jumpstarting with AR/VR", "amountOfVideos": 46 },
-    { "title": "Knowledge Management in IT", "amountOfVideos": 14 },
-    { "title": "Leveraging Blockchain Technology", "amountOfVideos": 35 },
-    { "title": "Managing Remote Teams", "amountOfVideos": 49 },
-    { "title": "Navigating Digital Transformation", "amountOfVideos": 51 },
-    { "title": "Optimizing Performance in Apps", "amountOfVideos": 29 },
-    { "title": "Pioneering Quantum Computing", "amountOfVideos": 33 },
-    { "title": "Questioning AI Ethics", "amountOfVideos": 22 },
-    { "title": "Revolutionizing Healthcare with AI", "amountOfVideos": 41 },
-    { "title": "Streamlining Supply Chain Operations", "amountOfVideos": 27 },
     {
-      "title": "Transforming Education through Technology",
-      "amountOfVideos": 36
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 34
     },
-    { "title": "Unveiling Cybersecurity Threats", "amountOfVideos": 31 },
-    { "title": "Venturing into Space Exploration", "amountOfVideos": 21 },
-    { "title": "Wielding Big Data in Finance", "amountOfVideos": 44 },
-    { "title": "eXamining Renewable Energy Sources", "amountOfVideos": 28 },
-    { "title": "Yielding Advances in Medicine", "amountOfVideos": 26 },
-    { "title": "Zapping Bugs in Software Development", "amountOfVideos": 30 },
     {
-      "title": "Advocating for Environmental Protection",
-      "amountOfVideos": 35
+      "title": "Basic HTML",
+      "slug": "old",
+      "amountOfVideos": 12
     },
-    { "title": "Breaking Down Genetic Engineering", "amountOfVideos": 39 },
-    { "title": "Cultivating Sustainable Agriculture", "amountOfVideos": 42 },
-    { "title": "Decoding the Human Genome", "amountOfVideos": 37 },
-    { "title": "Empowering Through Education", "amountOfVideos": 31 },
-    { "title": "Fostering Community Engagement", "amountOfVideos": 25 },
-    { "title": "Grasping the Basics of Investing", "amountOfVideos": 34 },
-    { "title": "Highlighting Climate Change Solutions", "amountOfVideos": 43 },
     {
-      "title": "Illuminating the Path to Personal Growth",
-      "amountOfVideos": 29
-    },
-    { "title": "Juxtaposing Classical and Modern Art", "amountOfVideos": 20 },
-    { "title": "Kneading Dough: The Art of Baking", "amountOfVideos": 33 },
-    { "title": "Launching Startups for Success", "amountOfVideos": 38 },
-    { "title": "Mastering the Art of Negotiation", "amountOfVideos": 27 },
-    { "title": "Nurturing Creativity in Children", "amountOfVideos": 24 },
-    { "title": "Orchestrating Memorable Events", "amountOfVideos": 21 },
-    { "title": "Pursuing Excellence in Sports", "amountOfVideos": 40 },
-    {
-      "title": "Quenching Thirst with Innovative Beverages",
-      "amountOfVideos": 22
-    },
-    { "title": "Reimagining Urban Spaces", "amountOfVideos": 46 },
-    { "title": "Safeguarding Digital Privacy", "amountOfVideos": 35 },
-    { "title": "Teaching with Technology", "amountOfVideos": 41 },
-    { "title": "Unraveling the Mysteries of the Ocean", "amountOfVideos": 30 },
-    { "title": "Visualizing Data for Impact", "amountOfVideos": 18 },
-    { "title": "Witnessing the Evolution of Gaming", "amountOfVideos": 32 },
-    { "title": "eXploring the Cosmos", "amountOfVideos": 29 },
-    { "title": "Yoga for Mental and Physical Health", "amountOfVideos": 36 },
-    { "title": "Zero-Waste Lifestyle Choices", "amountOfVideos": 23 },
-    { "title": "Adapting to Climate Change", "amountOfVideos": 44 },
-    { "title": "Building Resilient Communities", "amountOfVideos": 28 },
-    { "title": "Championing Gender Equality", "amountOfVideos": 31 },
-    { "title": "Demystifying Mental Health", "amountOfVideos": 19 },
-    { "title": "Elevating Culinary Skills", "amountOfVideos": 45 },
-    { "title": "Focusing on Holistic Wellness", "amountOfVideos": 37 },
-    {
-      "title": "Gaining Insights into Ancient Civilizations",
-      "amountOfVideos": 42
-    },
-    { "title": "Harnessing Creativity for Innovation", "amountOfVideos": 26 },
-    { "title": "Inspiring Through Leadership", "amountOfVideos": 34 },
-    { "title": "Juggling Responsibilities and Wellness", "amountOfVideos": 22 },
-    { "title": "Keeping Up with Technological Advances", "amountOfVideos": 39 },
-    { "title": "Learning from Historical Events", "amountOfVideos": 33 },
-    { "title": "Mobilizing for Social Change", "amountOfVideos": 27 },
-    { "title": "Nurturing Talent in the Arts", "amountOfVideos": 24 },
-    { "title": "Optimizing Health and Fitness Routines", "amountOfVideos": 32 },
-    { "title": "Pioneering Innovations in Science", "amountOfVideos": 21 },
-    {
-      "title": "Questioning the Limits of Human Potential",
+      "title": "Comprehensive CSS",
+      "slug": "old",
       "amountOfVideos": 45
     },
-    { "title": "Revitalizing Local Economies", "amountOfVideos": 38 },
     {
-      "title": "Sustaining Biodiversity for Future Generations",
-      "amountOfVideos": 29
+      "title": "Detailed React",
+      "slug": "old",
+      "amountOfVideos": 27
     },
-    { "title": "Transforming Waste into Resources", "amountOfVideos": 36 },
-    { "title": "Unlocking the Secrets of the Universe", "amountOfVideos": 31 },
-    { "title": "Venturing Beyond the Earth", "amountOfVideos": 28 },
-    { "title": "Widening Access to Education", "amountOfVideos": 40 },
-    { "title": "eXamining the Impact of Social Media", "amountOfVideos": 33 },
-    { "title": "Yielding New Agricultural Techniques", "amountOfVideos": 26 },
-    { "title": "Zoning Laws and Urban Planning", "amountOfVideos": 20 },
-    { "title": "Advanced Python", "amountOfVideos": 34 },
-    { "title": "Basic HTML", "amountOfVideos": 12 },
-    { "title": "Comprehensive CSS", "amountOfVideos": 45 },
-    { "title": "Detailed React", "amountOfVideos": 27 },
-    { "title": "Easy JavaScript", "amountOfVideos": 31 },
-    { "title": "Fundamental Vue", "amountOfVideos": 22 },
-    { "title": "General Django", "amountOfVideos": 18 },
-    { "title": "Handy Flask", "amountOfVideos": 48 },
-    { "title": "Introductory Node", "amountOfVideos": 36 },
-    { "title": "Journey through Angular", "amountOfVideos": 29 },
-    { "title": "Key Concepts in Express", "amountOfVideos": 15 },
-    { "title": "Learning Bootstrap", "amountOfVideos": 41 },
-    { "title": "Mastering TypeScript", "amountOfVideos": 23 },
-    { "title": "Navigating MongoDB", "amountOfVideos": 19 },
-    { "title": "Operational GraphQL", "amountOfVideos": 33 },
-    { "title": "Practical Web Design", "amountOfVideos": 26 },
-    { "title": "Quickstart with SASS", "amountOfVideos": 28 },
-    { "title": "Refining Algorithms", "amountOfVideos": 30 },
-    { "title": "Sophisticated Machine Learning", "amountOfVideos": 40 },
-    { "title": "Technical SEO", "amountOfVideos": 17 },
-    { "title": "Understanding UX/UI", "amountOfVideos": 25 },
-    { "title": "Versatile Kotlin", "amountOfVideos": 32 },
-    { "title": "Workshop on Git", "amountOfVideos": 21 },
-    { "title": "eXploring Data Science", "amountOfVideos": 37 },
-    { "title": "Yielding Rust Projects", "amountOfVideos": 44 },
-    { "title": "Zonal Deployment Strategies", "amountOfVideos": 20 },
-    { "title": "Analyzing Big Data", "amountOfVideos": 47 },
-    { "title": "Building CI/CD Pipelines", "amountOfVideos": 13 },
-    { "title": "Crafting Digital Marketing", "amountOfVideos": 39 },
-    { "title": "Developing Cloud Solutions", "amountOfVideos": 50 },
-    { "title": "Engineering Robust Architectures", "amountOfVideos": 52 },
-    { "title": "Formulating Business Strategies", "amountOfVideos": 24 },
-    { "title": "Growing E-commerce Platforms", "amountOfVideos": 16 },
-    { "title": "Harnessing IoT for Smart Cities", "amountOfVideos": 43 },
-    { "title": "Implementing Security Best Practices", "amountOfVideos": 38 },
-    { "title": "Jumpstarting with AR/VR", "amountOfVideos": 46 },
-    { "title": "Knowledge Management in IT", "amountOfVideos": 14 },
-    { "title": "Leveraging Blockchain Technology", "amountOfVideos": 35 },
-    { "title": "Managing Remote Teams", "amountOfVideos": 49 },
-    { "title": "Navigating Digital Transformation", "amountOfVideos": 51 },
-    { "title": "Optimizing Performance in Apps", "amountOfVideos": 29 },
-    { "title": "Pioneering Quantum Computing", "amountOfVideos": 33 },
-    { "title": "Questioning AI Ethics", "amountOfVideos": 22 },
-    { "title": "Revolutionizing Healthcare with AI", "amountOfVideos": 41 },
-    { "title": "Streamlining Supply Chain Operations", "amountOfVideos": 27 },
     {
-      "title": "Transforming Education through Technology",
-      "amountOfVideos": 36
+      "title": "Easy JavaScript",
+      "slug": "old",
+      "amountOfVideos": 31
     },
-    { "title": "Unveiling Cybersecurity Threats", "amountOfVideos": 31 },
-    { "title": "Venturing into Space Exploration", "amountOfVideos": 21 },
-    { "title": "Wielding Big Data in Finance", "amountOfVideos": 44 },
-    { "title": "eXamining Renewable Energy Sources", "amountOfVideos": 28 },
-    { "title": "Yielding Advances in Medicine", "amountOfVideos": 26 },
-    { "title": "Zapping Bugs in Software Development", "amountOfVideos": 30 },
     {
-      "title": "Advocating for Environmental Protection",
-      "amountOfVideos": 35
-    },
-    { "title": "Breaking Down Genetic Engineering", "amountOfVideos": 39 },
-    { "title": "Cultivating Sustainable Agriculture", "amountOfVideos": 42 },
-    { "title": "Decoding the Human Genome", "amountOfVideos": 37 },
-    { "title": "Empowering Through Education", "amountOfVideos": 31 },
-    { "title": "Fostering Community Engagement", "amountOfVideos": 25 },
-    { "title": "Grasping the Basics of Investing", "amountOfVideos": 34 },
-    { "title": "Highlighting Climate Change Solutions", "amountOfVideos": 43 },
-    {
-      "title": "Illuminating the Path to Personal Growth",
-      "amountOfVideos": 29
-    },
-    { "title": "Juxtaposing Classical and Modern Art", "amountOfVideos": 20 },
-    { "title": "Kneading Dough: The Art of Baking", "amountOfVideos": 33 },
-    { "title": "Launching Startups for Success", "amountOfVideos": 38 },
-    { "title": "Mastering the Art of Negotiation", "amountOfVideos": 27 },
-    { "title": "Nurturing Creativity in Children", "amountOfVideos": 24 },
-    { "title": "Orchestrating Memorable Events", "amountOfVideos": 21 },
-    { "title": "Pursuing Excellence in Sports", "amountOfVideos": 40 },
-    {
-      "title": "Quenching Thirst with Innovative Beverages",
+      "title": "Fundamental Vue",
+      "slug": "old",
       "amountOfVideos": 22
     },
-    { "title": "Reimagining Urban Spaces", "amountOfVideos": 46 },
-    { "title": "Safeguarding Digital Privacy", "amountOfVideos": 35 },
-    { "title": "Teaching with Technology", "amountOfVideos": 41 },
-    { "title": "Unraveling the Mysteries of the Ocean", "amountOfVideos": 30 },
-    { "title": "Visualizing Data for Impact", "amountOfVideos": 18 },
-    { "title": "Witnessing the Evolution of Gaming", "amountOfVideos": 32 },
-    { "title": "eXploring the Cosmos", "amountOfVideos": 29 },
-    { "title": "Yoga for Mental and Physical Health", "amountOfVideos": 36 },
-    { "title": "Zero-Waste Lifestyle Choices", "amountOfVideos": 23 },
-    { "title": "Adapting to Climate Change", "amountOfVideos": 44 },
-    { "title": "Building Resilient Communities", "amountOfVideos": 28 },
-    { "title": "Championing Gender Equality", "amountOfVideos": 31 },
-    { "title": "Demystifying Mental Health", "amountOfVideos": 19 },
-    { "title": "Elevating Culinary Skills", "amountOfVideos": 45 },
-    { "title": "Focusing on Holistic Wellness", "amountOfVideos": 37 },
     {
-      "title": "Gaining Insights into Ancient Civilizations",
-      "amountOfVideos": 42
+      "title": "General Django",
+      "slug": "old",
+      "amountOfVideos": 18
     },
-    { "title": "Harnessing Creativity for Innovation", "amountOfVideos": 26 },
-    { "title": "Inspiring Through Leadership", "amountOfVideos": 34 },
-    { "title": "Juggling Responsibilities and Wellness", "amountOfVideos": 22 },
-    { "title": "Keeping Up with Technological Advances", "amountOfVideos": 39 },
-    { "title": "Learning from Historical Events", "amountOfVideos": 33 },
-    { "title": "Mobilizing for Social Change", "amountOfVideos": 27 },
-    { "title": "Nurturing Talent in the Arts", "amountOfVideos": 24 },
-    { "title": "Optimizing Health and Fitness Routines", "amountOfVideos": 32 },
-    { "title": "Pioneering Innovations in Science", "amountOfVideos": 21 },
     {
-      "title": "Questioning the Limits of Human Potential",
-      "amountOfVideos": 45
+      "title": "Handy Flask",
+      "slug": "old",
+      "amountOfVideos": 48
     },
-    { "title": "Revitalizing Local Economies", "amountOfVideos": 38 },
     {
-      "title": "Sustaining Biodiversity for Future Generations",
+      "title": "Introductory Node",
+      "slug": "old",
+      "amountOfVideos": 36
+    },
+    {
+      "title": "Journey through Angular",
+      "slug": "old",
       "amountOfVideos": 29
     },
-    { "title": "Transforming Waste into Resources", "amountOfVideos": 36 },
-    { "title": "Unlocking the Secrets of the Universe", "amountOfVideos": 31 },
-    { "title": "Venturing Beyond the Earth", "amountOfVideos": 28 },
-    { "title": "Widening Access to Education", "amountOfVideos": 40 },
-    { "title": "eXamining the Impact of Social Media", "amountOfVideos": 33 },
-    { "title": "Yielding New Agricultural Techniques", "amountOfVideos": 26 },
-    { "title": "Zoning Laws and Urban Planning", "amountOfVideos": 20 }
+    {
+      "title": "Key Concepts in Express",
+      "slug": "old",
+      "amountOfVideos": 15
+    },
+    {
+      "title": "Learning Bootstrap",
+      "slug": "old",
+      "amountOfVideos": 41
+    },
+    {
+      "title": "Mastering TypeScript",
+      "slug": "old",
+      "amountOfVideos": 23
+    },
+    {
+      "title": "Navigating MongoDB",
+      "slug": "old",
+      "amountOfVideos": 19
+    },
+    {
+      "title": "Operational GraphQL",
+      "slug": "old",
+      "amountOfVideos": 33
+    },
+    {
+      "title": "Practical Web Design",
+      "slug": "old",
+      "amountOfVideos": 26
+    },
+    {
+      "title": "Quickstart with SASS",
+      "slug": "old",
+      "amountOfVideos": 28
+    },
+    {
+      "title": "Refining Algorithms",
+      "slug": "old",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Sophisticated Machine Learning",
+      "slug": "old",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "Technical SEO",
+      "slug": "old",
+      "amountOfVideos": 17
+    },
+    {
+      "title": "Understanding UX/UI",
+      "slug": "old",
+      "amountOfVideos": 25
+    },
+    {
+      "title": "Versatile Kotlin",
+      "slug": "old",
+      "amountOfVideos": 32
+    },
+    {
+      "title": "Workshop on Git",
+      "slug": "old",
+      "amountOfVideos": 21
+    },
+    {
+      "title": "eXploring Data Science",
+      "slug": "old",
+      "amountOfVideos": 37
+    },
+    {
+      "title": "Yielding Rust Projects",
+      "slug": "old",
+      "amountOfVideos": 44
+    },
+    {
+      "title": "Zonal Deployment Strategies",
+      "slug": "old",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "Analyzing Big Data",
+      "slug": "old",
+      "amountOfVideos": 47
+    },
+    {
+      "title": "Building CI/CD Pipelines",
+      "slug": "old",
+      "amountOfVideos": 13
+    },
+    {
+      "title": "Crafting Digital Marketing",
+      "slug": "old",
+      "amountOfVideos": 39
+    },
+    {
+      "title": "Developing Cloud Solutions",
+      "slug": "old",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "Engineering Robust Architectures",
+      "slug": "old",
+      "amountOfVideos": 52
+    },
+    {
+      "title": "Formulating Business Strategies",
+      "slug": "old",
+      "amountOfVideos": 24
+    },
+    {
+      "title": "Growing E-commerce Platforms",
+      "slug": "old",
+      "amountOfVideos": 16
+    },
+    {
+      "title": "Harnessing IoT for Smart Cities",
+      "slug": "old",
+      "amountOfVideos": 43
+    },
+    {
+      "title": "Implementing Security Best Practices",
+      "slug": "old",
+      "amountOfVideos": 38
+    },
+    {
+      "title": "Jumpstarting with AR/VR",
+      "slug": "old",
+      "amountOfVideos": 46
+    },
+    {
+      "title": "Knowledge Management in IT",
+      "slug": "old",
+      "amountOfVideos": 14
+    },
+    {
+      "title": "Leveraging Blockchain Technology",
+      "slug": "old",
+      "amountOfVideos": 35
+    },
+    {
+      "title": "Managing Remote Teams",
+      "slug": "old",
+      "amountOfVideos": 49
+    },
+    {
+      "title": "Navigating Digital Transformation",
+      "slug": "old",
+      "amountOfVideos": 51
+    },
+    {
+      "title": "Optimizing Performance in Apps",
+      "slug": "old",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "Pioneering Quantum Computing",
+      "slug": "old",
+      "amountOfVideos": 33
+    },
+    {
+      "title": "Questioning AI Ethics",
+      "slug": "old",
+      "amountOfVideos": 22
+    },
+    {
+      "title": "Revolutionizing Healthcare with AI",
+      "slug": "old",
+      "amountOfVideos": 41
+    },
+    {
+      "title": "Streamlining Supply Chain Operations",
+      "slug": "old",
+      "amountOfVideos": 27
+    },
+    {
+      "title": "Transforming Education through Technology",
+      "slug": "old",
+      "amountOfVideos": 36
+    },
+    {
+      "title": "Unveiling Cybersecurity Threats",
+      "slug": "old",
+      "amountOfVideos": 31
+    },
+    {
+      "title": "Venturing into Space Exploration",
+      "slug": "old",
+      "amountOfVideos": 21
+    },
+    {
+      "title": "Wielding Big Data in Finance",
+      "slug": "old",
+      "amountOfVideos": 44
+    },
+    {
+      "title": "eXamining Renewable Energy Sources",
+      "slug": "old",
+      "amountOfVideos": 28
+    },
+    {
+      "title": "Yielding Advances in Medicine",
+      "slug": "old",
+      "amountOfVideos": 26
+    },
+    {
+      "title": "Zapping Bugs in Software Development",
+      "slug": "old",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Advocating for Environmental Protection",
+      "slug": "old",
+      "amountOfVideos": 35
+    },
+    {
+      "title": "Breaking Down Genetic Engineering",
+      "slug": "old",
+      "amountOfVideos": 39
+    },
+    {
+      "title": "Cultivating Sustainable Agriculture",
+      "slug": "old",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Decoding the Human Genome",
+      "slug": "old",
+      "amountOfVideos": 37
+    },
+    {
+      "title": "Empowering Through Education",
+      "slug": "old",
+      "amountOfVideos": 31
+    },
+    {
+      "title": "Fostering Community Engagement",
+      "slug": "old",
+      "amountOfVideos": 25
+    },
+    {
+      "title": "Grasping the Basics of Investing",
+      "slug": "old",
+      "amountOfVideos": 34
+    },
+    {
+      "title": "Highlighting Climate Change Solutions",
+      "slug": "old",
+      "amountOfVideos": 43
+    },
+    {
+      "title": "Illuminating the Path to Personal Growth",
+      "slug": "old",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "Juxtaposing Classical and Modern Art",
+      "slug": "old",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "Kneading Dough: The Art of Baking",
+      "slug": "old",
+      "amountOfVideos": 33
+    },
+    {
+      "title": "Launching Startups for Success",
+      "slug": "old",
+      "amountOfVideos": 38
+    },
+    {
+      "title": "Mastering the Art of Negotiation",
+      "slug": "old",
+      "amountOfVideos": 27
+    },
+    {
+      "title": "Nurturing Creativity in Children",
+      "slug": "old",
+      "amountOfVideos": 24
+    },
+    {
+      "title": "Orchestrating Memorable Events",
+      "slug": "old",
+      "amountOfVideos": 21
+    },
+    {
+      "title": "Pursuing Excellence in Sports",
+      "slug": "old",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "Quenching Thirst with Innovative Beverages",
+      "slug": "old",
+      "amountOfVideos": 22
+    },
+    {
+      "title": "Reimagining Urban Spaces",
+      "slug": "old",
+      "amountOfVideos": 46
+    },
+    {
+      "title": "Safeguarding Digital Privacy",
+      "slug": "old",
+      "amountOfVideos": 35
+    },
+    {
+      "title": "Teaching with Technology",
+      "slug": "old",
+      "amountOfVideos": 41
+    },
+    {
+      "title": "Unraveling the Mysteries of the Ocean",
+      "slug": "old",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Visualizing Data for Impact",
+      "slug": "old",
+      "amountOfVideos": 18
+    },
+    {
+      "title": "Witnessing the Evolution of Gaming",
+      "slug": "old",
+      "amountOfVideos": 32
+    },
+    {
+      "title": "eXploring the Cosmos",
+      "slug": "old",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "Yoga for Mental and Physical Health",
+      "slug": "old",
+      "amountOfVideos": 36
+    },
+    {
+      "title": "Zero-Waste Lifestyle Choices",
+      "slug": "old",
+      "amountOfVideos": 23
+    },
+    {
+      "title": "Adapting to Climate Change",
+      "slug": "old",
+      "amountOfVideos": 44
+    },
+    {
+      "title": "Building Resilient Communities",
+      "slug": "old",
+      "amountOfVideos": 28
+    },
+    {
+      "title": "Championing Gender Equality",
+      "slug": "old",
+      "amountOfVideos": 31
+    },
+    {
+      "title": "Demystifying Mental Health",
+      "slug": "old",
+      "amountOfVideos": 19
+    },
+    {
+      "title": "Elevating Culinary Skills",
+      "slug": "old",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Focusing on Holistic Wellness",
+      "slug": "old",
+      "amountOfVideos": 37
+    },
+    {
+      "title": "Gaining Insights into Ancient Civilizations",
+      "slug": "old",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Harnessing Creativity for Innovation",
+      "slug": "old",
+      "amountOfVideos": 26
+    },
+    {
+      "title": "Inspiring Through Leadership",
+      "slug": "old",
+      "amountOfVideos": 34
+    },
+    {
+      "title": "Juggling Responsibilities and Wellness",
+      "slug": "old",
+      "amountOfVideos": 22
+    },
+    {
+      "title": "Keeping Up with Technological Advances",
+      "slug": "old",
+      "amountOfVideos": 39
+    },
+    {
+      "title": "Learning from Historical Events",
+      "slug": "old",
+      "amountOfVideos": 33
+    },
+    {
+      "title": "Mobilizing for Social Change",
+      "slug": "old",
+      "amountOfVideos": 27
+    },
+    {
+      "title": "Nurturing Talent in the Arts",
+      "slug": "old",
+      "amountOfVideos": 24
+    },
+    {
+      "title": "Optimizing Health and Fitness Routines",
+      "slug": "old",
+      "amountOfVideos": 32
+    },
+    {
+      "title": "Pioneering Innovations in Science",
+      "slug": "old",
+      "amountOfVideos": 21
+    },
+    {
+      "title": "Questioning the Limits of Human Potential",
+      "slug": "old",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Revitalizing Local Economies",
+      "slug": "old",
+      "amountOfVideos": 38
+    },
+    {
+      "title": "Sustaining Biodiversity for Future Generations",
+      "slug": "old",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "Transforming Waste into Resources",
+      "slug": "old",
+      "amountOfVideos": 36
+    },
+    {
+      "title": "Unlocking the Secrets of the Universe",
+      "slug": "old",
+      "amountOfVideos": 31
+    },
+    {
+      "title": "Venturing Beyond the Earth",
+      "slug": "old",
+      "amountOfVideos": 28
+    },
+    {
+      "title": "Widening Access to Education",
+      "slug": "old",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "eXamining the Impact of Social Media",
+      "slug": "old",
+      "amountOfVideos": 33
+    },
+    {
+      "title": "Yielding New Agricultural Techniques",
+      "slug": "old",
+      "amountOfVideos": 26
+    },
+    {
+      "title": "Zoning Laws and Urban Planning",
+      "slug": "old",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "Advanced Python",
+      "slug": "old",
+      "amountOfVideos": 34
+    },
+    {
+      "title": "Basic HTML",
+      "slug": "old",
+      "amountOfVideos": 12
+    },
+    {
+      "title": "Comprehensive CSS",
+      "slug": "old",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Detailed React",
+      "slug": "old",
+      "amountOfVideos": 27
+    },
+    {
+      "title": "Easy JavaScript",
+      "slug": "old",
+      "amountOfVideos": 31
+    },
+    {
+      "title": "Fundamental Vue",
+      "slug": "old",
+      "amountOfVideos": 22
+    },
+    {
+      "title": "General Django",
+      "slug": "old",
+      "amountOfVideos": 18
+    },
+    {
+      "title": "Handy Flask",
+      "slug": "old",
+      "amountOfVideos": 48
+    },
+    {
+      "title": "Introductory Node",
+      "slug": "old",
+      "amountOfVideos": 36
+    },
+    {
+      "title": "Journey through Angular",
+      "slug": "old",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "Key Concepts in Express",
+      "slug": "old",
+      "amountOfVideos": 15
+    },
+    {
+      "title": "Learning Bootstrap",
+      "slug": "old",
+      "amountOfVideos": 41
+    },
+    {
+      "title": "Mastering TypeScript",
+      "slug": "old",
+      "amountOfVideos": 23
+    },
+    {
+      "title": "Navigating MongoDB",
+      "slug": "old",
+      "amountOfVideos": 19
+    },
+    {
+      "title": "Operational GraphQL",
+      "slug": "old",
+      "amountOfVideos": 33
+    },
+    {
+      "title": "Practical Web Design",
+      "slug": "old",
+      "amountOfVideos": 26
+    },
+    {
+      "title": "Quickstart with SASS",
+      "slug": "old",
+      "amountOfVideos": 28
+    },
+    {
+      "title": "Refining Algorithms",
+      "slug": "old",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Sophisticated Machine Learning",
+      "slug": "old",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "Technical SEO",
+      "slug": "old",
+      "amountOfVideos": 17
+    },
+    {
+      "title": "Understanding UX/UI",
+      "slug": "old",
+      "amountOfVideos": 25
+    },
+    {
+      "title": "Versatile Kotlin",
+      "slug": "old",
+      "amountOfVideos": 32
+    },
+    {
+      "title": "Workshop on Git",
+      "slug": "old",
+      "amountOfVideos": 21
+    },
+    {
+      "title": "eXploring Data Science",
+      "slug": "old",
+      "amountOfVideos": 37
+    },
+    {
+      "title": "Yielding Rust Projects",
+      "slug": "old",
+      "amountOfVideos": 44
+    },
+    {
+      "title": "Zonal Deployment Strategies",
+      "slug": "old",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "Analyzing Big Data",
+      "slug": "old",
+      "amountOfVideos": 47
+    },
+    {
+      "title": "Building CI/CD Pipelines",
+      "slug": "old",
+      "amountOfVideos": 13
+    },
+    {
+      "title": "Crafting Digital Marketing",
+      "slug": "old",
+      "amountOfVideos": 39
+    },
+    {
+      "title": "Developing Cloud Solutions",
+      "slug": "old",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "Engineering Robust Architectures",
+      "slug": "old",
+      "amountOfVideos": 52
+    },
+    {
+      "title": "Formulating Business Strategies",
+      "slug": "old",
+      "amountOfVideos": 24
+    },
+    {
+      "title": "Growing E-commerce Platforms",
+      "slug": "old",
+      "amountOfVideos": 16
+    },
+    {
+      "title": "Harnessing IoT for Smart Cities",
+      "slug": "old",
+      "amountOfVideos": 43
+    },
+    {
+      "title": "Implementing Security Best Practices",
+      "slug": "old",
+      "amountOfVideos": 38
+    },
+    {
+      "title": "Jumpstarting with AR/VR",
+      "slug": "old",
+      "amountOfVideos": 46
+    },
+    {
+      "title": "Knowledge Management in IT",
+      "slug": "old",
+      "amountOfVideos": 14
+    },
+    {
+      "title": "Leveraging Blockchain Technology",
+      "slug": "old",
+      "amountOfVideos": 35
+    },
+    {
+      "title": "Managing Remote Teams",
+      "slug": "old",
+      "amountOfVideos": 49
+    },
+    {
+      "title": "Navigating Digital Transformation",
+      "slug": "old",
+      "amountOfVideos": 51
+    },
+    {
+      "title": "Optimizing Performance in Apps",
+      "slug": "old",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "Pioneering Quantum Computing",
+      "slug": "old",
+      "amountOfVideos": 33
+    },
+    {
+      "title": "Questioning AI Ethics",
+      "slug": "old",
+      "amountOfVideos": 22
+    },
+    {
+      "title": "Revolutionizing Healthcare with AI",
+      "slug": "old",
+      "amountOfVideos": 41
+    },
+    {
+      "title": "Streamlining Supply Chain Operations",
+      "slug": "old",
+      "amountOfVideos": 27
+    },
+    {
+      "title": "Transforming Education through Technology",
+      "slug": "old",
+      "amountOfVideos": 36
+    },
+    {
+      "title": "Unveiling Cybersecurity Threats",
+      "slug": "old",
+      "amountOfVideos": 31
+    },
+    {
+      "title": "Venturing into Space Exploration",
+      "slug": "old",
+      "amountOfVideos": 21
+    },
+    {
+      "title": "Wielding Big Data in Finance",
+      "slug": "old",
+      "amountOfVideos": 44
+    },
+    {
+      "title": "eXamining Renewable Energy Sources",
+      "slug": "old",
+      "amountOfVideos": 28
+    },
+    {
+      "title": "Yielding Advances in Medicine",
+      "slug": "old",
+      "amountOfVideos": 26
+    },
+    {
+      "title": "Zapping Bugs in Software Development",
+      "slug": "old",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Advocating for Environmental Protection",
+      "slug": "old",
+      "amountOfVideos": 35
+    },
+    {
+      "title": "Breaking Down Genetic Engineering",
+      "slug": "old",
+      "amountOfVideos": 39
+    },
+    {
+      "title": "Cultivating Sustainable Agriculture",
+      "slug": "old",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Decoding the Human Genome",
+      "slug": "old",
+      "amountOfVideos": 37
+    },
+    {
+      "title": "Empowering Through Education",
+      "slug": "old",
+      "amountOfVideos": 31
+    },
+    {
+      "title": "Fostering Community Engagement",
+      "slug": "old",
+      "amountOfVideos": 25
+    },
+    {
+      "title": "Grasping the Basics of Investing",
+      "slug": "old",
+      "amountOfVideos": 34
+    },
+    {
+      "title": "Highlighting Climate Change Solutions",
+      "slug": "old",
+      "amountOfVideos": 43
+    },
+    {
+      "title": "Illuminating the Path to Personal Growth",
+      "slug": "old",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "Juxtaposing Classical and Modern Art",
+      "slug": "old",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "Kneading Dough: The Art of Baking",
+      "slug": "old",
+      "amountOfVideos": 33
+    },
+    {
+      "title": "Launching Startups for Success",
+      "slug": "old",
+      "amountOfVideos": 38
+    },
+    {
+      "title": "Mastering the Art of Negotiation",
+      "slug": "old",
+      "amountOfVideos": 27
+    },
+    {
+      "title": "Nurturing Creativity in Children",
+      "slug": "old",
+      "amountOfVideos": 24
+    },
+    {
+      "title": "Orchestrating Memorable Events",
+      "slug": "old",
+      "amountOfVideos": 21
+    },
+    {
+      "title": "Pursuing Excellence in Sports",
+      "slug": "old",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "Quenching Thirst with Innovative Beverages",
+      "slug": "old",
+      "amountOfVideos": 22
+    },
+    {
+      "title": "Reimagining Urban Spaces",
+      "slug": "old",
+      "amountOfVideos": 46
+    },
+    {
+      "title": "Safeguarding Digital Privacy",
+      "slug": "old",
+      "amountOfVideos": 35
+    },
+    {
+      "title": "Teaching with Technology",
+      "slug": "old",
+      "amountOfVideos": 41
+    },
+    {
+      "title": "Unraveling the Mysteries of the Ocean",
+      "slug": "old",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Visualizing Data for Impact",
+      "slug": "old",
+      "amountOfVideos": 18
+    },
+    {
+      "title": "Witnessing the Evolution of Gaming",
+      "slug": "old",
+      "amountOfVideos": 32
+    },
+    {
+      "title": "eXploring the Cosmos",
+      "slug": "old",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "Yoga for Mental and Physical Health",
+      "slug": "old",
+      "amountOfVideos": 36
+    },
+    {
+      "title": "Zero-Waste Lifestyle Choices",
+      "slug": "old",
+      "amountOfVideos": 23
+    },
+    {
+      "title": "Adapting to Climate Change",
+      "slug": "old",
+      "amountOfVideos": 44
+    },
+    {
+      "title": "Building Resilient Communities",
+      "slug": "old",
+      "amountOfVideos": 28
+    },
+    {
+      "title": "Championing Gender Equality",
+      "slug": "old",
+      "amountOfVideos": 31
+    },
+    {
+      "title": "Demystifying Mental Health",
+      "slug": "old",
+      "amountOfVideos": 19
+    },
+    {
+      "title": "Elevating Culinary Skills",
+      "slug": "old",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Focusing on Holistic Wellness",
+      "slug": "old",
+      "amountOfVideos": 37
+    },
+    {
+      "title": "Gaining Insights into Ancient Civilizations",
+      "slug": "old",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Harnessing Creativity for Innovation",
+      "slug": "old",
+      "amountOfVideos": 26
+    },
+    {
+      "title": "Inspiring Through Leadership",
+      "slug": "old",
+      "amountOfVideos": 34
+    },
+    {
+      "title": "Juggling Responsibilities and Wellness",
+      "slug": "old",
+      "amountOfVideos": 22
+    },
+    {
+      "title": "Keeping Up with Technological Advances",
+      "slug": "old",
+      "amountOfVideos": 39
+    },
+    {
+      "title": "Learning from Historical Events",
+      "slug": "old",
+      "amountOfVideos": 33
+    },
+    {
+      "title": "Mobilizing for Social Change",
+      "slug": "old",
+      "amountOfVideos": 27
+    },
+    {
+      "title": "Nurturing Talent in the Arts",
+      "slug": "old",
+      "amountOfVideos": 24
+    },
+    {
+      "title": "Optimizing Health and Fitness Routines",
+      "slug": "old",
+      "amountOfVideos": 32
+    },
+    {
+      "title": "Pioneering Innovations in Science",
+      "slug": "old",
+      "amountOfVideos": 21
+    },
+    {
+      "title": "Questioning the Limits of Human Potential",
+      "slug": "old",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Revitalizing Local Economies",
+      "slug": "old",
+      "amountOfVideos": 38
+    },
+    {
+      "title": "Sustaining Biodiversity for Future Generations",
+      "slug": "old",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "Transforming Waste into Resources",
+      "slug": "old",
+      "amountOfVideos": 36
+    },
+    {
+      "title": "Unlocking the Secrets of the Universe",
+      "slug": "old",
+      "amountOfVideos": 31
+    },
+    {
+      "title": "Venturing Beyond the Earth",
+      "slug": "old",
+      "amountOfVideos": 28
+    },
+    {
+      "title": "Widening Access to Education",
+      "slug": "old",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "eXamining the Impact of Social Media",
+      "slug": "old",
+      "amountOfVideos": 33
+    },
+    {
+      "title": "Yielding New Agricultural Techniques",
+      "slug": "old",
+      "amountOfVideos": 26
+    },
+    {
+      "title": "Zoning Laws and Urban Planning",
+      "slug": "old",
+      "amountOfVideos": 20
+    }
   ]
 }
